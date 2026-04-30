@@ -1,5 +1,3 @@
-# CODING_SKILLS_II_PROJECT
-
 # Job Scheduling with Deadlines
 
 A visual and interactive implementation of the **Job Scheduling with Deadlines** greedy algorithm using **HTML, CSS, JavaScript**, along with a **C++ reference implementation**.
